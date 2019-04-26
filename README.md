@@ -1,7 +1,7 @@
 # git-deployment
 A simple guide to easy deployment using git
 
-**Deployment**. The final stage of launching that big idea you've worked on for the past couple months. Depending on the stack in use, it can be a breeze or **a real nightmare**. This guide is to help with the latter.
+**Deployment**. The final stage of launching that big idea you've worked on for the past couple months. Depending on the stack in use, it can be a breeze or **a real nightmare**. This guide aims to help with the latter.
 
 ### Prerequisites
 In order to follow this guide comforatably you need to know a few things:
@@ -9,7 +9,7 @@ In order to follow this guide comforatably you need to know a few things:
 - Git
 
 ### Guide
-The ususal procedure for deploying a web application on server where continuous deployment is not involved usually involves the following:
+The ususal procedure for deploying a web application on a server where continuous deployment is not involved usually involves the following:
 
 - ssh into the server
 - navigate to the app directory
@@ -19,7 +19,7 @@ The ususal procedure for deploying a web application on server where continuous 
 Pretty easy, right? Yeah, until you have to do it a dozen times.
 ![Too much work](https://i.gifer.com/Rui9.gif "Too much work")
 
-We are programmers. We are lazy. We are don't like repeating ourselves. Also, check [Joel's Spolky's blog](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/), especially **question 2**. Let me just leave it that.
+We are programmers. We are lazy. We don't like repeating ourselves. Also, check [Joel's Spolky's blog](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/), especially **question 2**. Let me just leave it that.
 
 Now let's get started.
 
